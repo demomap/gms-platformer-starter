@@ -16,4 +16,13 @@ if ((l4CE03E0F_0 > 0))
 	/// @DnDArgument : "speed" "jump_speed"
 	/// @DnDArgument : "type" "2"
 	vspeed = jump_speed;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 1A78F7AC
+	/// @DnDParent : 4CE03E0F
+	/// @DnDArgument : "spriteind" "sprite_player_jump"
+	/// @DnDSaveInfo : "spriteind" "1c70a541-93f8-4166-b596-28b25896eb78"
+	sprite_index = sprite_player_jump;
+	image_index = 0;
 }
