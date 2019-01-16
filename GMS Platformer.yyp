@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "5e543280-4870-4984-b755-89378e4302b6",
+            "Value": {
+                "id": "4215cbec-dff6-40c8-aec5-f240d01ce71e",
+                "resourcePath": "objects\\object_monkey\\object_monkey.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "61c0169a-4976-4b87-b14c-32ba097338ab",
             "Value": {
                 "id": "4549ef6b-eecb-4cac-af98-c0e0ef466aab",
@@ -164,14 +172,6 @@
                 "id": "4e67f91a-0192-4f9b-9242-3eac07ae3b2a",
                 "resourcePath": "views\\67deb0a3-c7ae-4258-af78-e9bc3567a3fc.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "6dbf7835-b720-4f30-a8ba-42840900e800",
-            "Value": {
-                "id": "9b7bfcd8-ca87-48fb-b494-0bc893df02e5",
-                "resourcePath": "objects\\object_monkey\\object_monkey.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -212,6 +212,14 @@
                 "id": "ff47931a-38b2-4100-b3f6-f0eb0ebcf0af",
                 "resourcePath": "tilesets\\tilesets_blocks2\\tilesets_blocks2.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "8ef0a9eb-d886-4ee1-9a46-3d85ebff093b",
+            "Value": {
+                "id": "4641f19c-f32b-424c-82fb-41e3c5dc6229",
+                "resourcePath": "sprites\\sprite_monkey_die\\sprite_monkey_die.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -396,6 +404,14 @@
                 "id": "4f096260-3125-40b8-b9d4-168651c0c09f",
                 "resourcePath": "views\\fcec29e1-d911-4b2f-9347-d5524dcb6818.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe3eaaf1-1616-4c12-bd7d-5d2efb28f840",
+            "Value": {
+                "id": "b64a0c74-fe74-4f6e-9dfb-7a87d88114d0",
+                "resourcePath": "objects\\object_monkey_die\\object_monkey_die.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
