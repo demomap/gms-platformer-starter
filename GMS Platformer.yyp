@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1b4ba1dc-a3d5-46da-96ef-fff2ecbc92e3",
+            "Value": {
+                "id": "542facb2-8af5-4c3a-9350-76e07d31d72b",
+                "resourcePath": "objects\\Object_dino\\Object_dino.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1c70a541-93f8-4166-b596-28b25896eb78",
             "Value": {
                 "id": "67f01f80-464b-451b-96b4-ef7e2e4aadc3",
@@ -156,6 +164,14 @@
                 "id": "4215cbec-dff6-40c8-aec5-f240d01ce71e",
                 "resourcePath": "objects\\object_monkey\\object_monkey.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "605f0e8a-2d1b-4cd7-a13c-3500bf7b0700",
+            "Value": {
+                "id": "b79f7fc9-5e46-4ca6-8b4d-501b60e1a8d1",
+                "resourcePath": "sprites\\sprite_invis_floor\\sprite_invis_floor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +271,14 @@
             }
         },
         {
+            "Key": "a6bc383f-f759-4307-8b8e-63fd8f60c481",
+            "Value": {
+                "id": "ab658df9-ac44-4ab9-bb8f-597622a3eea3",
+                "resourcePath": "sprites\\sprite_dino\\sprite_dino.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aa29117e-8de3-4e45-99fb-0474d883a69f",
             "Value": {
                 "id": "e9059c1c-8086-483a-9f3d-5ab7d04686eb",
@@ -311,6 +335,14 @@
             }
         },
         {
+            "Key": "c3054266-039d-48f9-98fa-7caf00097486",
+            "Value": {
+                "id": "f688c804-a50c-4139-ba90-ea9d789d1803",
+                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c6fc1e1d-3267-4a4e-8387-76e565b96507",
             "Value": {
                 "id": "19b2e1b1-d38b-4509-a5c9-bf8b41a05842",
@@ -348,6 +380,14 @@
                 "id": "8e24c43e-9542-412e-a87c-8527556331d2",
                 "resourcePath": "sprites\\sprite_blocks\\sprite_blocks.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cecb8f04-91ba-432f-b257-3c7cc07d4902",
+            "Value": {
+                "id": "0044fc3f-48e2-4280-828e-4ef1d9b2f9e5",
+                "resourcePath": "objects\\object_invis_floor\\object_invis_floor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
